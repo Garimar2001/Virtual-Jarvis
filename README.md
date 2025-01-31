@@ -1,4 +1,4 @@
-Virtual Jarvis - AI Voice Assistant
+*Virtual Jarvis - AI Voice Assistant*
 
 Introduction:
 Virtual Jarvis is a Python-based voice assistant that responds to voice commands and executes various tasks such as opening websites, playing YouTube videos, and searching the web. It uses speech recognition, text-to-speech conversion, and web automation to provide a hands-free experience.
@@ -26,10 +26,10 @@ How It Works:
 3. Command Recognition: After activation, it listens for a command and executes an appropriate function.
 
 Response Execution:
-> If the command contains "open google", it opens Google.
-> If the command contains "play", it plays a YouTube video.
-> If the command contains "search", it searches the web.
-> If the command is "stop", the assistant stops running.
+- If the command contains "open google", it opens Google.
+- If the command contains "play", it plays a YouTube video.
+- If the command contains "search", it searches the web.
+- If the command is "stop", the assistant stops running.
 
 Usage:
 1. Run the script: python jarvis.py
